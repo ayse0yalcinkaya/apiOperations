@@ -1,9 +1,8 @@
-# apiOperations
-Send a request to the API and use the response.  
+# React + Vite
 
-# Project Content
-- Project Opening and Header Component Construction
-- Axios Setup and Request to Unspash
-- Sending the Value We Received from the Form to API
-- Keeping the Response from the API and Passing it to Child Components as Props
-- Image Printing and CSS Features
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
